@@ -9,7 +9,6 @@
 如果您发现错误或有任何改进（无论是在配置中还是在文档中），请考虑打开问题或拉取请求。
 
 ## 简介
-
 - 此仓库位ThinkPad T14 Gen1创建。
 - 固态更换为WD Blue SN550。
 - 声卡默认 layout-id = 86，内置麦克风无输入（尚未解决）。
@@ -17,22 +16,18 @@
 - 支持 Monterey。
 - 支持 同盘EFI引导win10。
 
-
-
 ## 硬件信息
 ``` 
 - CPU：Intel Core i7-10510U
-- 集成显卡：Intel Comet Lake-U GT2 (支持HDMI)
+- 集成显卡：Intel(R) UHD Graphics 630 (支持HDMI)
 - eGPU：雷凌Pro显卡扩展坞 + AMD Radeon RX 5500 XT (可实现内屏、HDMI、eGPU三屏显示，HEVC正常)
 - 声卡：ALC257 (内置麦克风无输入，其他OK)
 - 无线网卡：Intel(R) Wi-Fi 6 AX201
 - 硬盘： WD Blue SN550 (原自带三星硬盘无解)
-
 ```
 
 
-
-
-> # 学分
+##
+## 参考
 
 - [@CLAY-BIOS](https://github.com/CLAY-BIOS/Lenovo-ThinkPad-T450s-Hackintosh-OpenCore) ThinkPad X250 OpenCore
