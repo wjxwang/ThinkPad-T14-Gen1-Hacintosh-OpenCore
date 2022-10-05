@@ -1,4 +1,10 @@
 # ThinkPad T14 Gen1 Monterey OpenCore 0.8.3
+<img align="right" src="/images/aboutThisMachine.png" alt="Lenovo Thinkpad T14 Gen1 Hackintosh OpenCore" width="400">
+
+[![macOS](https://img.shields.io/badge/macOS-12.6-blue)](https://developer.apple.com/documentation/macos-release-notes)
+[![OpenCore](https://img.shields.io/badge/OpenCore-0.8.3-green)](https://github.com/acidanthera/OpenCorePkg)
+[![ThinkPad](https://img.shields.io/badge/ThinkPad-T14Gen1-orange)](https://think.lenovo.com.cn/index.html)
+
 
 **免责声明:**
 
