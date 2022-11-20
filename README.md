@@ -1,5 +1,5 @@
-# ThinkPad T14 Gen1 Monterey OpenCore 0.8.3
-<img align="right" src="/images/aboutThisMachine.png" alt="Lenovo Thinkpad T14 Gen1 Hackintosh OpenCore" width="400">
+# ThinkPad T14 Gen1 Ventura OpenCore 0.8.6
+<img align="right" src="/images/aboutThisMachine.png" alt="Lenovo Thinkpad T14 Gen1 Hackintosh OpenCore" width="300">
 
 [![macOS](https://img.shields.io/badge/macOS-12.6-blue)](https://developer.apple.com/documentation/macos-release-notes)
 [![OpenCore](https://img.shields.io/badge/OpenCore-0.8.3-green)](https://github.com/acidanthera/OpenCorePkg)
@@ -17,9 +17,9 @@
 ## 简介
 - 此仓库位ThinkPad T14 Gen1创建。
 - 固态更换为WD Blue SN550。
-- 声卡默认 layout-id = 86，内置麦克风无输入（尚未解决）。
+- 声卡 layout-id = 96，内置麦克风无输入（尚未解决）。
 - 可外接eGPU使用，外接显卡型号为RX5500XT 8G。
-- 支持 Monterey。
+- 支持 Ventura、Monterey。
 - 支持 同盘EFI引导win10。
 
 ## 硬件信息
